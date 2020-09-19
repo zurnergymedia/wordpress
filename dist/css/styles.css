@@ -733,6 +733,7 @@ img.decorative-line {
 .header .countdown #clock .timer-text {
 	font: 300 12px/1em "Ubuntu", sans-serif;
 	text-align: center;
+	/* color: #b97dda; */
 }
 
 .header p {
